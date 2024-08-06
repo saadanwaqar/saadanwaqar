@@ -48,7 +48,7 @@ I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at Tri
 
 ### 📫 How to reach me
 - **Email**: msaadanwaqar@gmail.com
-- **Phone**: +923136899728
+- **Phone**: [+923136899728](wa.me/+923136899728)
 - **LinkedIn**: [M Saadan Waqar](https://www.linkedin.com/in/saadanwaqar/)
 
 ### 😄 Pronouns
