@@ -38,13 +38,32 @@ I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at Tri
 - Scaling AI solutions
 - Optimizing cloud infrastructure
 
-### 💬 Ask me about
-- AI development
-- Full-stack web development
-- Data engineering
-- Cloud services (Azure, AWS, GCP)
-- Database management
-- Automation
+## Skills
+- **Languages**: Python, JavaScript, TypeScript, Shell, SQL, HTML, CSS, XML, JSON, YAML, Markdown
+
+- **Frameworks**: Django, Flask, FastAPI, Angular, React, TailwindCSS, MaterialUI, Bootstrap
+
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase, Azure AI Search, ElasticSearch, SQL Server, Oracle
+
+- **DevOps**: Docker, GitLab CI/CD, GitHub Actions, Azure DevOps, AWS, Heroku, Azure App Service, AWS Lambda, Azure Functions, Azure VM, AWS EC2, Google Compute Engine, AWS EKS, Azure Container Registry, AWS ECR, Google Container Registry, Azure Blob Storage, AWS S3, Google Cloud Storage, Azure Data Lake, AWS S3
+
+- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV, Pandas, Numpy, Plotly, HuggingFace, Transformers, GPT-2, GPT-3, Azure Open AI
+
+- **Data Engineering**: ETL Pipelines, Data Scrapping, Azure serverless functions, 3rd party integrations
+
+- **Cloud**: Azure, AWS, Heroku
+
+## Projects
+
+- **Scoretize AI**: AI-Powered Sales Pitch Generation and help organizations to grow digitally by data comparsion with their competitors.
+
+- **Ticket Barter**: Empowering Event Experiences with Seamless Ticket Trading of US Events.
+
+- **DocAI**: Buisness Tender Document Analysis and Summary powered by OpenAI.
+
+- **TBC Outlook AI**: Response Automation by Training on Marketing, Buisness emails Powered by AI and integrated in Outlook.
+
+- **Medial AI**: Trained on Financial data and chatbot integration
 
 ### 📫 How to reach me
 - **Email**: msaadanwaqar@gmail.com
