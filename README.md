@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**saadanwaqar/saadanwaqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at TripleK Technologies. I specialize in AI development, full-stack web development, and data engineering, and I have a passion for leading projects and teams to deliver innovative solutions.
 
 ### 🔭 I’m currently working on
@@ -33,10 +18,14 @@ I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at Tri
 - Full-stack web development projects
 - Cloud computing and DevOps
 - Project Management
-
-### 🤔 I’m looking for help with
-- Scaling AI solutions
-- Optimizing cloud infrastructure
+- 
+### 📫 How to reach me
+- **Email**: msaadanwaqar@gmail.com
+- **Phone**: +923136899728
+- **LinkedIn**: [M Saadan Waqar](https://www.linkedin.com/in/saadanwaqar/)
+- 
+### ⚡ Fun fact: 
+I have a knack for integrating AI solutions seamlessly into everyday applications, making technology more accessible and user-friendly.
 
 ## Skills
 - **Languages**: Python, JavaScript, TypeScript, Shell, SQL, HTML, CSS, XML, JSON, YAML, Markdown
@@ -64,16 +53,5 @@ I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at Tri
 - **TBC Outlook AI**: Response Automation by Training on Marketing, Buisness emails Powered by AI and integrated in Outlook.
 
 - **Medial AI**: Trained on Financial data and chatbot integration
-
-### 📫 How to reach me
-- **Email**: msaadanwaqar@gmail.com
-- **Phone**: +923136899728
-- **LinkedIn**: [M Saadan Waqar](https://www.linkedin.com/in/saadanwaqar/)
-
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- I have a knack for integrating AI solutions seamlessly into everyday applications, making technology more accessible and user-friendly.
 
 Feel free to reach out to me for collaboration or if you have any questions. I'm always open to connecting with new people and exploring new opportunities!
