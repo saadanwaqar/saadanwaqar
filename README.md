@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at TripleK Technologies. I specialize in AI development, full-stack web development, and data engineering, and I have a passion for leading projects and teams to deliver innovative solutions.
+I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO). I specialize in AI development, full-stack web development, and data engineering, and I have a passion for leading projects and teams to deliver innovative solutions.
 
 ### 🔭 I’m currently working on
 - AI Development
@@ -22,7 +22,7 @@ I'm Saadan Waqar, currently serving as the Chief Technology Officer (CTO) at Tri
 ### 📫 How to reach me
 - **Email**: msaadanwaqar@gmail.com
 - **Phone**: +923136899728
-- **LinkedIn**: [M Saadan Waqar](https://www.linkedin.com/in/saadanwaqar/)
+
 - 
 ### ⚡ Fun fact: 
 I have a knack for integrating AI solutions seamlessly into everyday applications, making technology more accessible and user-friendly.
